@@ -7,6 +7,6 @@
 
 
 int pivotIndex(std::vector<int>& num);
-
+int searchInsert(std::vector<int>& num, int target);
 
 #endif //UNTITLED1_INDEX_H
